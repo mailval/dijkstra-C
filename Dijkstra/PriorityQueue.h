@@ -1,10 +1,10 @@
 /*
 ***********************************************************************************************
 *                                                                                             *
-*                                    Classe : PriorityQueue                                    *
+*                                    Classe : PriorityQueue                                   *
 *                                        Projet M326                                          *
 *                                                                                             *
-* Author: MAILLO Valentin & COLARD-CLAUDY Maéva - 2020                                        *
+* Author: MAILLO Valentin - 2020                                                              *
 *                                                                                             *
 * Fichier repris d'un TP éffectue au S5 en M312.                                              *
 *                                                                                             *

@@ -4,7 +4,7 @@
 *                 Problème du plus court chemin                               *
 *                                                                             *
 *                                                                             *
-* Author: MAILLO Valentin & COLARD-CLAUDY Maéva                               *
+* Author: MAILLO Valentin                                                     *
 *                                                                             *
 * Note: Projet réalisé au cours de la licence L3 MINT à l'université          *
 *       Paris-Saclay                                                          *

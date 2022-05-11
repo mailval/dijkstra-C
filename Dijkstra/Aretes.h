@@ -4,7 +4,7 @@
  *                                       Classe : Arete                                        *
  *                                        Projet M326                                          *
  *                                                                                             *
- * Author: MAILLO Valentin & COLARD-CLAUDY Maéva - 2020                                        *
+ * Author: MAILLO Valentin - 2020                                                              *
  *                                                                                             *
  *                                                                                             *
  * Arguments :                                                                                 *
