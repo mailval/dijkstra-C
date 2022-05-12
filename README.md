@@ -42,11 +42,13 @@ Voici un exemple de graphe crée pour un graphe triangulaire avec proba_sommets 
 
 Dans un second temps nous avons implémenter un algorithme qui prend en entrée un plan d'un musée et propose le chemin le plus court vers la sortie la plus proche pour une position aléatoire sur ce plan.
 
+En utilisant la méthode de Fast Marching on calcul le chemin le plus court entre notre position et la sortie la plus proche.
+
 Voici le plan du musée utilisé : 
 
 ![musee](https://user-images.githubusercontent.com/105354135/168037251-b13c8f6e-de2e-439c-8c57-c6617a40357e.png)
 
-Et voici une sortie : 
+Et voici un exemple de sortie : 
 
 ![sortie](https://user-images.githubusercontent.com/105354135/168047199-f3680a65-2980-4dcd-80eb-30e27c27c8cb.jpg)
 
