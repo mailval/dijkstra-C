@@ -4,7 +4,7 @@ Implémentation de l'algorithme de Dijkstra, recherche du plus court chemin en C
 - Une méthode de backtracking.
 - Une méthode de Fast Marching pour la fonction coût.
 
-Chaque fichier a pour en-tête une description pour chaque fonction.
+<b> Chaque fichier a pour en-tête une description pour chaque fonction. </b>
 
 Dans un premier temps le programme nous propose de choisir une taille de graphe. 
 Le graphe en question est un graphe carré donc si nous choisisons n = 50 le graphe crée sera un grahe 50x50.
