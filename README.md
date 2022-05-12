@@ -1,6 +1,8 @@
 # dijkstra-C
 
-Implémentation de l'algorithme de Dijkstra, recherche du plus court chemin en C++. 
+Implémentation de l'algorithme de Dijkstra, recherche du plus court chemin en C++ en. utilisant deux méthode :
+- Une méthode de backtracking.
+- Une méthode de Fast Marching pour la fonction coût.
 
 Chaque fichier a pour en-tête une description pour chaque fonction.
 
