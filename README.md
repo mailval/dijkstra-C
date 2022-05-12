@@ -44,7 +44,9 @@ Dans un second temps nous avons implémenter un algorithme qui prend en entrée 
 
 Voici le plan du musée utilisé : 
 
-
 ![musee](https://user-images.githubusercontent.com/105354135/168037251-b13c8f6e-de2e-439c-8c57-c6617a40357e.png)
 
+Et voici une sortie : 
+
+![sortie](https://user-images.githubusercontent.com/105354135/168047199-f3680a65-2980-4dcd-80eb-30e27c27c8cb.jpg)
 
