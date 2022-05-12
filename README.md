@@ -38,6 +38,12 @@ Voici un exemple de graphe crée pour un graphe triangulaire avec proba_sommets 
 
 ![Capture d’écran 2022-05-12 à 10 58 46](https://user-images.githubusercontent.com/105354135/168033195-01f93417-8f3c-4120-8e1f-d3fc885225a5.png)
 
+## Plan d'un musée 
+
+Dans un second temps nous avons implémenter un algorithme qui prend en entrée un plan d'un musée et propose le chemin le plus court vers la sortie la plus proche pour une position aléatoire sur ce plan.
+
+Voici le plan du musée utilisé : 
+
 
 
 
